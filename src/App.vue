@@ -1214,7 +1214,7 @@ onBeforeUnmount(() => {
 <style>
 .linerColor {
   background: linear-gradient(45deg, #00d0f3, #aa88ff);
-  /* -webkit-background-clip: text; */
+  -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
